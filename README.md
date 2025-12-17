@@ -1,4 +1,4 @@
-# RSAM: Vision-Language Two-Way Guidance for Referring Remote Sensing Image Segmentation
+# MAGRET: A Dataset for Multi-Target Visual Grounding in Remote Sensing Images with Cross-Modal Annotations
 
 ![Frame](https://img.shields.io/badge/Frame-pytorch-important.svg)
 ![license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
@@ -90,3 +90,4 @@ Zhao Zilong: whuzhaozilong@whu.edu.cn
 ## Acknowledgements
 
 Code in this repository is built on [SAM 2](https://github.com/facebookresearch/sam2). We'd like to thank the authors for open sourcing their project.
+
