@@ -3,7 +3,7 @@
 ![Frame](https://img.shields.io/badge/Frame-pytorch-important.svg)
 ![license](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
 
-![RSAM](img/model_framework.png)
+![MAGRET](Intro1.pdf)
 
 This repository contains the official implementation and datasets for the paper "MAGRET: A Dataset for Multi-Target Visual Grounding in Remote Sensing Images with Cross-Modal Annotations".
 
@@ -39,5 +39,6 @@ rsam/
 
 ### Dataset
 [MAGRET](https://huggingface.co/datasets/xuejiehao/MAGRET/tree/main)
+
 
 
